@@ -30,4 +30,20 @@ My NeetCode-250 problem submissions using Python
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/ncashish06/NeetCode-250/tree/master/0543-diameter-of-binary-tree) |
+## String
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/ncashish06/NeetCode-250/tree/master/1871-jump-game-vii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/ncashish06/NeetCode-250/tree/master/1871-jump-game-vii) |
+## Sliding Window
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/ncashish06/NeetCode-250/tree/master/1871-jump-game-vii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/ncashish06/NeetCode-250/tree/master/1871-jump-game-vii) |
 <!---LeetCode Topics End-->
