@@ -33,6 +33,7 @@ My NeetCode-250 problem submissions using Python
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ncashish06/NeetCode-250/tree/master/0020-valid-parentheses) |
 | [1871-jump-game-vii](https://github.com/ncashish06/NeetCode-250/tree/master/1871-jump-game-vii) |
 ## Dynamic Programming
 |  |
@@ -46,4 +47,8 @@ My NeetCode-250 problem submissions using Python
 |  |
 | ------- |
 | [1871-jump-game-vii](https://github.com/ncashish06/NeetCode-250/tree/master/1871-jump-game-vii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ncashish06/NeetCode-250/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
