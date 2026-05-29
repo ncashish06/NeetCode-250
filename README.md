@@ -70,4 +70,12 @@ My NeetCode-250 problem submissions using Python
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/ncashish06/NeetCode-250/tree/master/0212-word-search-ii) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ncashish06/NeetCode-250/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ncashish06/NeetCode-250/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
