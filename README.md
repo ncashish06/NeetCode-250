@@ -38,6 +38,7 @@ My NeetCode-250 problem submissions using Python
 | ------- |
 | [0020-valid-parentheses](https://github.com/ncashish06/NeetCode-250/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/ncashish06/NeetCode-250/tree/master/0079-word-search) |
+| [0208-implement-trie-prefix-tree](https://github.com/ncashish06/NeetCode-250/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/ncashish06/NeetCode-250/tree/master/0212-word-search-ii) |
 | [1871-jump-game-vii](https://github.com/ncashish06/NeetCode-250/tree/master/1871-jump-game-vii) |
 ## Dynamic Programming
@@ -69,6 +70,7 @@ My NeetCode-250 problem submissions using Python
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/ncashish06/NeetCode-250/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/ncashish06/NeetCode-250/tree/master/0212-word-search-ii) |
 ## Linked List
 |  |
@@ -78,4 +80,12 @@ My NeetCode-250 problem submissions using Python
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ncashish06/NeetCode-250/tree/master/0206-reverse-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/ncashish06/NeetCode-250/tree/master/0208-implement-trie-prefix-tree) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/ncashish06/NeetCode-250/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
