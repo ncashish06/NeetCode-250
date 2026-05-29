@@ -6,6 +6,7 @@ My NeetCode-250 problem submissions using Python
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ncashish06/NeetCode-250/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ncashish06/NeetCode-250/tree/master/0033-search-in-rotated-sorted-array) |
 | [0079-word-search](https://github.com/ncashish06/NeetCode-250/tree/master/0079-word-search) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ncashish06/NeetCode-250/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -36,6 +37,7 @@ My NeetCode-250 problem submissions using Python
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ncashish06/NeetCode-250/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ncashish06/NeetCode-250/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/ncashish06/NeetCode-250/tree/master/0079-word-search) |
 | [0208-implement-trie-prefix-tree](https://github.com/ncashish06/NeetCode-250/tree/master/0208-implement-trie-prefix-tree) |
@@ -70,6 +72,7 @@ My NeetCode-250 problem submissions using Python
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ncashish06/NeetCode-250/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/ncashish06/NeetCode-250/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/ncashish06/NeetCode-250/tree/master/0212-word-search-ii) |
 ## Linked List
