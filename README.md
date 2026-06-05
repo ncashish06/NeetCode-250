@@ -12,6 +12,7 @@ My NeetCode-250 problem submissions using Python
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ncashish06/NeetCode-250/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0212-word-search-ii](https://github.com/ncashish06/NeetCode-250/tree/master/0212-word-search-ii) |
 | [0238-product-of-array-except-self](https://github.com/ncashish06/NeetCode-250/tree/master/0238-product-of-array-except-self) |
+| [0347-top-k-frequent-elements](https://github.com/ncashish06/NeetCode-250/tree/master/0347-top-k-frequent-elements) |
 | [1929-concatenation-of-array](https://github.com/ncashish06/NeetCode-250/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -89,6 +90,7 @@ My NeetCode-250 problem submissions using Python
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/ncashish06/NeetCode-250/tree/master/0208-implement-trie-prefix-tree) |
+| [0347-top-k-frequent-elements](https://github.com/ncashish06/NeetCode-250/tree/master/0347-top-k-frequent-elements) |
 ## Design
 |  |
 | ------- |
@@ -97,4 +99,28 @@ My NeetCode-250 problem submissions using Python
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ncashish06/NeetCode-250/tree/master/0007-reverse-integer) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ncashish06/NeetCode-250/tree/master/0347-top-k-frequent-elements) |
+## Sorting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ncashish06/NeetCode-250/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ncashish06/NeetCode-250/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ncashish06/NeetCode-250/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ncashish06/NeetCode-250/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ncashish06/NeetCode-250/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
