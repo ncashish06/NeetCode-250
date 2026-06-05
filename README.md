@@ -7,6 +7,7 @@ My NeetCode-250 problem submissions using Python
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ncashish06/NeetCode-250/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ncashish06/NeetCode-250/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ncashish06/NeetCode-250/tree/master/0033-search-in-rotated-sorted-array) |
 | [0079-word-search](https://github.com/ncashish06/NeetCode-250/tree/master/0079-word-search) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ncashish06/NeetCode-250/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -132,4 +133,8 @@ My NeetCode-250 problem submissions using Python
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/ncashish06/NeetCode-250/tree/master/0621-task-scheduler) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ncashish06/NeetCode-250/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
