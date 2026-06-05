@@ -53,6 +53,7 @@ My NeetCode-250 problem submissions using Python
 | [0208-implement-trie-prefix-tree](https://github.com/ncashish06/NeetCode-250/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/ncashish06/NeetCode-250/tree/master/0212-word-search-ii) |
 | [0344-reverse-string](https://github.com/ncashish06/NeetCode-250/tree/master/0344-reverse-string) |
+| [0767-reorganize-string](https://github.com/ncashish06/NeetCode-250/tree/master/0767-reorganize-string) |
 | [1871-jump-game-vii](https://github.com/ncashish06/NeetCode-250/tree/master/1871-jump-game-vii) |
 ## Dynamic Programming
 |  |
@@ -103,6 +104,7 @@ My NeetCode-250 problem submissions using Python
 | [0268-missing-number](https://github.com/ncashish06/NeetCode-250/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ncashish06/NeetCode-250/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/ncashish06/NeetCode-250/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/ncashish06/NeetCode-250/tree/master/0767-reorganize-string) |
 ## Design
 |  |
 | ------- |
@@ -123,11 +125,13 @@ My NeetCode-250 problem submissions using Python
 | [0268-missing-number](https://github.com/ncashish06/NeetCode-250/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ncashish06/NeetCode-250/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/ncashish06/NeetCode-250/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/ncashish06/NeetCode-250/tree/master/0767-reorganize-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ncashish06/NeetCode-250/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/ncashish06/NeetCode-250/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/ncashish06/NeetCode-250/tree/master/0767-reorganize-string) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -137,6 +141,7 @@ My NeetCode-250 problem submissions using Python
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ncashish06/NeetCode-250/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/ncashish06/NeetCode-250/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/ncashish06/NeetCode-250/tree/master/0767-reorganize-string) |
 ## Quickselect
 |  |
 | ------- |
@@ -145,6 +150,7 @@ My NeetCode-250 problem submissions using Python
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/ncashish06/NeetCode-250/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/ncashish06/NeetCode-250/tree/master/0767-reorganize-string) |
 ## Two Pointers
 |  |
 | ------- |
