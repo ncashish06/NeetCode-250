@@ -13,6 +13,7 @@ My NeetCode-250 problem submissions using Python
 | [0212-word-search-ii](https://github.com/ncashish06/NeetCode-250/tree/master/0212-word-search-ii) |
 | [0238-product-of-array-except-self](https://github.com/ncashish06/NeetCode-250/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/ncashish06/NeetCode-250/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/ncashish06/NeetCode-250/tree/master/0621-task-scheduler) |
 | [1929-concatenation-of-array](https://github.com/ncashish06/NeetCode-250/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -91,6 +92,7 @@ My NeetCode-250 problem submissions using Python
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/ncashish06/NeetCode-250/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/ncashish06/NeetCode-250/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/ncashish06/NeetCode-250/tree/master/0621-task-scheduler) |
 ## Design
 |  |
 | ------- |
@@ -107,10 +109,12 @@ My NeetCode-250 problem submissions using Python
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ncashish06/NeetCode-250/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/ncashish06/NeetCode-250/tree/master/0621-task-scheduler) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ncashish06/NeetCode-250/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/ncashish06/NeetCode-250/tree/master/0621-task-scheduler) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -119,8 +123,13 @@ My NeetCode-250 problem submissions using Python
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ncashish06/NeetCode-250/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/ncashish06/NeetCode-250/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ncashish06/NeetCode-250/tree/master/0347-top-k-frequent-elements) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/ncashish06/NeetCode-250/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
