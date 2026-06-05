@@ -13,6 +13,7 @@ My NeetCode-250 problem submissions using Python
 | [0079-word-search](https://github.com/ncashish06/NeetCode-250/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/ncashish06/NeetCode-250/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ncashish06/NeetCode-250/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/ncashish06/NeetCode-250/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ncashish06/NeetCode-250/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0212-word-search-ii](https://github.com/ncashish06/NeetCode-250/tree/master/0212-word-search-ii) |
 | [0238-product-of-array-except-self](https://github.com/ncashish06/NeetCode-250/tree/master/0238-product-of-array-except-self) |
@@ -154,5 +155,6 @@ My NeetCode-250 problem submissions using Python
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ncashish06/NeetCode-250/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ncashish06/NeetCode-250/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
