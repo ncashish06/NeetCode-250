@@ -11,6 +11,7 @@ My NeetCode-250 problem submissions using Python
 | [0027-remove-element](https://github.com/ncashish06/NeetCode-250/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ncashish06/NeetCode-250/tree/master/0033-search-in-rotated-sorted-array) |
 | [0079-word-search](https://github.com/ncashish06/NeetCode-250/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/ncashish06/NeetCode-250/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ncashish06/NeetCode-250/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ncashish06/NeetCode-250/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0212-word-search-ii](https://github.com/ncashish06/NeetCode-250/tree/master/0212-word-search-ii) |
@@ -113,6 +114,7 @@ My NeetCode-250 problem submissions using Python
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ncashish06/NeetCode-250/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/ncashish06/NeetCode-250/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/ncashish06/NeetCode-250/tree/master/0621-task-scheduler) |
 ## Heap (Priority Queue)
@@ -142,5 +144,6 @@ My NeetCode-250 problem submissions using Python
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ncashish06/NeetCode-250/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ncashish06/NeetCode-250/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/ncashish06/NeetCode-250/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/ncashish06/NeetCode-250/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
