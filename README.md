@@ -93,4 +93,8 @@ My NeetCode-250 problem submissions using Python
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/ncashish06/NeetCode-250/tree/master/0208-implement-trie-prefix-tree) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/ncashish06/NeetCode-250/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
