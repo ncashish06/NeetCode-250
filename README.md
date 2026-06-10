@@ -95,6 +95,7 @@ My NeetCode-250 problem submissions using Python
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ncashish06/NeetCode-250/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/ncashish06/NeetCode-250/tree/master/0023-merge-k-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/ncashish06/NeetCode-250/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -121,6 +122,7 @@ My NeetCode-250 problem submissions using Python
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ncashish06/NeetCode-250/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/ncashish06/NeetCode-250/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
@@ -133,6 +135,7 @@ My NeetCode-250 problem submissions using Python
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ncashish06/NeetCode-250/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/ncashish06/NeetCode-250/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/ncashish06/NeetCode-250/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/ncashish06/NeetCode-250/tree/master/0767-reorganize-string) |
@@ -168,4 +171,8 @@ My NeetCode-250 problem submissions using Python
 | ------- |
 | [0136-single-number](https://github.com/ncashish06/NeetCode-250/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ncashish06/NeetCode-250/tree/master/0268-missing-number) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ncashish06/NeetCode-250/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
