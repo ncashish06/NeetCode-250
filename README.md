@@ -42,6 +42,7 @@ My NeetCode-250 problem submissions using Python
 | ------- |
 | [0079-word-search](https://github.com/ncashish06/NeetCode-250/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ncashish06/NeetCode-250/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/ncashish06/NeetCode-250/tree/master/0310-minimum-height-trees) |
 | [0543-diameter-of-binary-tree](https://github.com/ncashish06/NeetCode-250/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -184,4 +185,13 @@ My NeetCode-250 problem submissions using Python
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ncashish06/NeetCode-250/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/ncashish06/NeetCode-250/tree/master/0310-minimum-height-trees) |
+## Graph Theory
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/ncashish06/NeetCode-250/tree/master/0310-minimum-height-trees) |
+## Topological Sort
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/ncashish06/NeetCode-250/tree/master/0310-minimum-height-trees) |
 <!---LeetCode Topics End-->
