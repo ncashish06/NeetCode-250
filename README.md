@@ -35,15 +35,18 @@ My NeetCode-250 problem submissions using Python
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ncashish06/NeetCode-250/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ncashish06/NeetCode-250/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ncashish06/NeetCode-250/tree/master/0079-word-search) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ncashish06/NeetCode-250/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ncashish06/NeetCode-250/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ncashish06/NeetCode-250/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ncashish06/NeetCode-250/tree/master/0543-diameter-of-binary-tree) |
 ## String
 |  |
@@ -175,4 +178,8 @@ My NeetCode-250 problem submissions using Python
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ncashish06/NeetCode-250/tree/master/0023-merge-k-sorted-lists) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ncashish06/NeetCode-250/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
