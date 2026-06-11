@@ -104,6 +104,7 @@ My NeetCode-250 problem submissions using Python
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ncashish06/NeetCode-250/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/ncashish06/NeetCode-250/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/ncashish06/NeetCode-250/tree/master/0206-reverse-linked-list) |
 ## Hash Table
 |  |
@@ -121,6 +122,7 @@ My NeetCode-250 problem submissions using Python
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ncashish06/NeetCode-250/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/ncashish06/NeetCode-250/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/ncashish06/NeetCode-250/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
