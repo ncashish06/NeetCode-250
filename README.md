@@ -23,6 +23,7 @@ My NeetCode-250 problem submissions using Python
 | [0347-top-k-frequent-elements](https://github.com/ncashish06/NeetCode-250/tree/master/0347-top-k-frequent-elements) |
 | [0463-island-perimeter](https://github.com/ncashish06/NeetCode-250/tree/master/0463-island-perimeter) |
 | [0621-task-scheduler](https://github.com/ncashish06/NeetCode-250/tree/master/0621-task-scheduler) |
+| [0695-max-area-of-island](https://github.com/ncashish06/NeetCode-250/tree/master/0695-max-area-of-island) |
 | [1929-concatenation-of-array](https://github.com/ncashish06/NeetCode-250/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -48,6 +49,7 @@ My NeetCode-250 problem submissions using Python
 | [0310-minimum-height-trees](https://github.com/ncashish06/NeetCode-250/tree/master/0310-minimum-height-trees) |
 | [0463-island-perimeter](https://github.com/ncashish06/NeetCode-250/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/ncashish06/NeetCode-250/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/ncashish06/NeetCode-250/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -95,6 +97,7 @@ My NeetCode-250 problem submissions using Python
 | [0200-number-of-islands](https://github.com/ncashish06/NeetCode-250/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/ncashish06/NeetCode-250/tree/master/0212-word-search-ii) |
 | [0463-island-perimeter](https://github.com/ncashish06/NeetCode-250/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/ncashish06/NeetCode-250/tree/master/0695-max-area-of-island) |
 ## Trie
 |  |
 | ------- |
@@ -194,6 +197,7 @@ My NeetCode-250 problem submissions using Python
 | [0200-number-of-islands](https://github.com/ncashish06/NeetCode-250/tree/master/0200-number-of-islands) |
 | [0310-minimum-height-trees](https://github.com/ncashish06/NeetCode-250/tree/master/0310-minimum-height-trees) |
 | [0463-island-perimeter](https://github.com/ncashish06/NeetCode-250/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/ncashish06/NeetCode-250/tree/master/0695-max-area-of-island) |
 ## Graph Theory
 |  |
 | ------- |
@@ -206,4 +210,5 @@ My NeetCode-250 problem submissions using Python
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ncashish06/NeetCode-250/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/ncashish06/NeetCode-250/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
