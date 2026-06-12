@@ -16,6 +16,7 @@ My NeetCode-250 problem submissions using Python
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ncashish06/NeetCode-250/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ncashish06/NeetCode-250/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ncashish06/NeetCode-250/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0200-number-of-islands](https://github.com/ncashish06/NeetCode-250/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/ncashish06/NeetCode-250/tree/master/0212-word-search-ii) |
 | [0238-product-of-array-except-self](https://github.com/ncashish06/NeetCode-250/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ncashish06/NeetCode-250/tree/master/0268-missing-number) |
@@ -42,6 +43,7 @@ My NeetCode-250 problem submissions using Python
 | ------- |
 | [0079-word-search](https://github.com/ncashish06/NeetCode-250/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ncashish06/NeetCode-250/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/ncashish06/NeetCode-250/tree/master/0200-number-of-islands) |
 | [0310-minimum-height-trees](https://github.com/ncashish06/NeetCode-250/tree/master/0310-minimum-height-trees) |
 | [0543-diameter-of-binary-tree](https://github.com/ncashish06/NeetCode-250/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
@@ -88,6 +90,7 @@ My NeetCode-250 problem submissions using Python
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ncashish06/NeetCode-250/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/ncashish06/NeetCode-250/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/ncashish06/NeetCode-250/tree/master/0212-word-search-ii) |
 ## Trie
 |  |
@@ -185,6 +188,7 @@ My NeetCode-250 problem submissions using Python
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ncashish06/NeetCode-250/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/ncashish06/NeetCode-250/tree/master/0200-number-of-islands) |
 | [0310-minimum-height-trees](https://github.com/ncashish06/NeetCode-250/tree/master/0310-minimum-height-trees) |
 ## Graph Theory
 |  |
@@ -194,4 +198,8 @@ My NeetCode-250 problem submissions using Python
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/ncashish06/NeetCode-250/tree/master/0310-minimum-height-trees) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ncashish06/NeetCode-250/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
