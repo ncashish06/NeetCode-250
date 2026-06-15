@@ -112,6 +112,7 @@ My NeetCode-250 problem submissions using Python
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ncashish06/NeetCode-250/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/ncashish06/NeetCode-250/tree/master/0023-merge-k-sorted-lists) |
+| [0092-reverse-linked-list-ii](https://github.com/ncashish06/NeetCode-250/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/ncashish06/NeetCode-250/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
