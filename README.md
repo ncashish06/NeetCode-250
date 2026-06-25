@@ -16,6 +16,7 @@ My NeetCode-250 problem submissions using Python
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ncashish06/NeetCode-250/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ncashish06/NeetCode-250/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ncashish06/NeetCode-250/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/ncashish06/NeetCode-250/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/ncashish06/NeetCode-250/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/ncashish06/NeetCode-250/tree/master/0212-word-search-ii) |
 | [0238-product-of-array-except-self](https://github.com/ncashish06/NeetCode-250/tree/master/0238-product-of-array-except-self) |
@@ -126,6 +127,7 @@ My NeetCode-250 problem submissions using Python
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/ncashish06/NeetCode-250/tree/master/0133-clone-graph) |
+| [0169-majority-element](https://github.com/ncashish06/NeetCode-250/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/ncashish06/NeetCode-250/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/ncashish06/NeetCode-250/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ncashish06/NeetCode-250/tree/master/0347-top-k-frequent-elements) |
@@ -145,11 +147,13 @@ My NeetCode-250 problem submissions using Python
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ncashish06/NeetCode-250/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/ncashish06/NeetCode-250/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ncashish06/NeetCode-250/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ncashish06/NeetCode-250/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ncashish06/NeetCode-250/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ncashish06/NeetCode-250/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ncashish06/NeetCode-250/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/ncashish06/NeetCode-250/tree/master/0621-task-scheduler) |
@@ -168,6 +172,7 @@ My NeetCode-250 problem submissions using Python
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ncashish06/NeetCode-250/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ncashish06/NeetCode-250/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/ncashish06/NeetCode-250/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/ncashish06/NeetCode-250/tree/master/0767-reorganize-string) |
