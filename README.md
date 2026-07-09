@@ -26,6 +26,7 @@ My NeetCode-250 problem submissions using Python
 | [0621-task-scheduler](https://github.com/ncashish06/NeetCode-250/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/ncashish06/NeetCode-250/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/ncashish06/NeetCode-250/tree/master/0778-swim-in-rising-water) |
+| [0912-sort-an-array](https://github.com/ncashish06/NeetCode-250/tree/master/0912-sort-an-array) |
 | [1929-concatenation-of-array](https://github.com/ncashish06/NeetCode-250/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -156,6 +157,7 @@ My NeetCode-250 problem submissions using Python
 | [0023-merge-k-sorted-lists](https://github.com/ncashish06/NeetCode-250/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/ncashish06/NeetCode-250/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ncashish06/NeetCode-250/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/ncashish06/NeetCode-250/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -165,6 +167,7 @@ My NeetCode-250 problem submissions using Python
 | [0347-top-k-frequent-elements](https://github.com/ncashish06/NeetCode-250/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/ncashish06/NeetCode-250/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/ncashish06/NeetCode-250/tree/master/0767-reorganize-string) |
+| [0912-sort-an-array](https://github.com/ncashish06/NeetCode-250/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -173,10 +176,12 @@ My NeetCode-250 problem submissions using Python
 | [0621-task-scheduler](https://github.com/ncashish06/NeetCode-250/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/ncashish06/NeetCode-250/tree/master/0767-reorganize-string) |
 | [0778-swim-in-rising-water](https://github.com/ncashish06/NeetCode-250/tree/master/0778-swim-in-rising-water) |
+| [0912-sort-an-array](https://github.com/ncashish06/NeetCode-250/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ncashish06/NeetCode-250/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/ncashish06/NeetCode-250/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -211,6 +216,7 @@ My NeetCode-250 problem submissions using Python
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ncashish06/NeetCode-250/tree/master/0023-merge-k-sorted-lists) |
+| [0912-sort-an-array](https://github.com/ncashish06/NeetCode-250/tree/master/0912-sort-an-array) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -241,4 +247,12 @@ My NeetCode-250 problem submissions using Python
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ncashish06/NeetCode-250/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ncashish06/NeetCode-250/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ncashish06/NeetCode-250/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
