@@ -24,6 +24,7 @@ My NeetCode-250 problem submissions using Python
 | [0238-product-of-array-except-self](https://github.com/ncashish06/NeetCode-250/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ncashish06/NeetCode-250/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ncashish06/NeetCode-250/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/ncashish06/NeetCode-250/tree/master/0435-non-overlapping-intervals) |
 | [0463-island-perimeter](https://github.com/ncashish06/NeetCode-250/tree/master/0463-island-perimeter) |
 | [0621-task-scheduler](https://github.com/ncashish06/NeetCode-250/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/ncashish06/NeetCode-250/tree/master/0695-max-area-of-island) |
@@ -85,6 +86,7 @@ My NeetCode-250 problem submissions using Python
 | ------- |
 | [0055-jump-game](https://github.com/ncashish06/NeetCode-250/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ncashish06/NeetCode-250/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0435-non-overlapping-intervals](https://github.com/ncashish06/NeetCode-250/tree/master/0435-non-overlapping-intervals) |
 | [1871-jump-game-vii](https://github.com/ncashish06/NeetCode-250/tree/master/1871-jump-game-vii) |
 ## Sliding Window
 |  |
@@ -168,6 +170,7 @@ My NeetCode-250 problem submissions using Python
 | [0169-majority-element](https://github.com/ncashish06/NeetCode-250/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ncashish06/NeetCode-250/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ncashish06/NeetCode-250/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/ncashish06/NeetCode-250/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/ncashish06/NeetCode-250/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/ncashish06/NeetCode-250/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/ncashish06/NeetCode-250/tree/master/0912-sort-an-array) |
@@ -200,6 +203,7 @@ My NeetCode-250 problem submissions using Python
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/ncashish06/NeetCode-250/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/ncashish06/NeetCode-250/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/ncashish06/NeetCode-250/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/ncashish06/NeetCode-250/tree/master/0767-reorganize-string) |
 ## Two Pointers
