@@ -78,6 +78,7 @@ My NeetCode-250 problem submissions using Python
 | [0079-word-search](https://github.com/ncashish06/NeetCode-250/tree/master/0079-word-search) |
 | [0208-implement-trie-prefix-tree](https://github.com/ncashish06/NeetCode-250/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/ncashish06/NeetCode-250/tree/master/0212-word-search-ii) |
+| [0242-valid-anagram](https://github.com/ncashish06/NeetCode-250/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ncashish06/NeetCode-250/tree/master/0344-reverse-string) |
 | [0767-reorganize-string](https://github.com/ncashish06/NeetCode-250/tree/master/0767-reorganize-string) |
 | [1871-jump-game-vii](https://github.com/ncashish06/NeetCode-250/tree/master/1871-jump-game-vii) |
@@ -141,6 +142,7 @@ My NeetCode-250 problem submissions using Python
 | [0133-clone-graph](https://github.com/ncashish06/NeetCode-250/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/ncashish06/NeetCode-250/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/ncashish06/NeetCode-250/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/ncashish06/NeetCode-250/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ncashish06/NeetCode-250/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ncashish06/NeetCode-250/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/ncashish06/NeetCode-250/tree/master/0621-task-scheduler) |
@@ -168,6 +170,7 @@ My NeetCode-250 problem submissions using Python
 | [0056-merge-intervals](https://github.com/ncashish06/NeetCode-250/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ncashish06/NeetCode-250/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ncashish06/NeetCode-250/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/ncashish06/NeetCode-250/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ncashish06/NeetCode-250/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ncashish06/NeetCode-250/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/ncashish06/NeetCode-250/tree/master/0435-non-overlapping-intervals) |
