@@ -30,11 +30,13 @@ My NeetCode-250 problem submissions using Python
 | [0695-max-area-of-island](https://github.com/ncashish06/NeetCode-250/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/ncashish06/NeetCode-250/tree/master/0778-swim-in-rising-water) |
 | [0912-sort-an-array](https://github.com/ncashish06/NeetCode-250/tree/master/0912-sort-an-array) |
+| [1094-car-pooling](https://github.com/ncashish06/NeetCode-250/tree/master/1094-car-pooling) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/ncashish06/NeetCode-250/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1929-concatenation-of-array](https://github.com/ncashish06/NeetCode-250/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
 | ------- |
+| [1094-car-pooling](https://github.com/ncashish06/NeetCode-250/tree/master/1094-car-pooling) |
 | [1929-concatenation-of-array](https://github.com/ncashish06/NeetCode-250/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
@@ -99,6 +101,7 @@ My NeetCode-250 problem submissions using Python
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ncashish06/NeetCode-250/tree/master/0238-product-of-array-except-self) |
+| [1094-car-pooling](https://github.com/ncashish06/NeetCode-250/tree/master/1094-car-pooling) |
 | [1871-jump-game-vii](https://github.com/ncashish06/NeetCode-250/tree/master/1871-jump-game-vii) |
 ## Stack
 |  |
@@ -179,6 +182,7 @@ My NeetCode-250 problem submissions using Python
 | [0621-task-scheduler](https://github.com/ncashish06/NeetCode-250/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/ncashish06/NeetCode-250/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/ncashish06/NeetCode-250/tree/master/0912-sort-an-array) |
+| [1094-car-pooling](https://github.com/ncashish06/NeetCode-250/tree/master/1094-car-pooling) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/ncashish06/NeetCode-250/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Heap (Priority Queue)
 |  |
@@ -189,6 +193,7 @@ My NeetCode-250 problem submissions using Python
 | [0767-reorganize-string](https://github.com/ncashish06/NeetCode-250/tree/master/0767-reorganize-string) |
 | [0778-swim-in-rising-water](https://github.com/ncashish06/NeetCode-250/tree/master/0778-swim-in-rising-water) |
 | [0912-sort-an-array](https://github.com/ncashish06/NeetCode-250/tree/master/0912-sort-an-array) |
+| [1094-car-pooling](https://github.com/ncashish06/NeetCode-250/tree/master/1094-car-pooling) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/ncashish06/NeetCode-250/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Bucket Sort
 |  |
