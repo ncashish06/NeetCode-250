@@ -12,6 +12,7 @@ My NeetCode-250 problem submissions using Python
 | [0027-remove-element](https://github.com/ncashish06/NeetCode-250/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ncashish06/NeetCode-250/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/ncashish06/NeetCode-250/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ncashish06/NeetCode-250/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ncashish06/NeetCode-250/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ncashish06/NeetCode-250/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ncashish06/NeetCode-250/tree/master/0057-insert-interval) |
@@ -38,6 +39,7 @@ My NeetCode-250 problem submissions using Python
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ncashish06/NeetCode-250/tree/master/0054-spiral-matrix) |
 | [1094-car-pooling](https://github.com/ncashish06/NeetCode-250/tree/master/1094-car-pooling) |
 | [1929-concatenation-of-array](https://github.com/ncashish06/NeetCode-250/tree/master/1929-concatenation-of-array) |
 ## Binary Search
@@ -118,6 +120,7 @@ My NeetCode-250 problem submissions using Python
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ncashish06/NeetCode-250/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ncashish06/NeetCode-250/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/ncashish06/NeetCode-250/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ncashish06/NeetCode-250/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/ncashish06/NeetCode-250/tree/master/0212-word-search-ii) |
