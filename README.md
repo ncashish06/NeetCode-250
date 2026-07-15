@@ -11,6 +11,7 @@ My NeetCode-250 problem submissions using Python
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ncashish06/NeetCode-250/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ncashish06/NeetCode-250/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ncashish06/NeetCode-250/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/ncashish06/NeetCode-250/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/ncashish06/NeetCode-250/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ncashish06/NeetCode-250/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ncashish06/NeetCode-250/tree/master/0057-insert-interval) |
@@ -116,6 +117,7 @@ My NeetCode-250 problem submissions using Python
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ncashish06/NeetCode-250/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/ncashish06/NeetCode-250/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ncashish06/NeetCode-250/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/ncashish06/NeetCode-250/tree/master/0212-word-search-ii) |
@@ -162,6 +164,7 @@ My NeetCode-250 problem submissions using Python
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ncashish06/NeetCode-250/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/ncashish06/NeetCode-250/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ncashish06/NeetCode-250/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/ncashish06/NeetCode-250/tree/master/0268-missing-number) |
 ## Divide and Conquer
