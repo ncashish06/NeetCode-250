@@ -6,6 +6,7 @@ My NeetCode-250 problem submissions using Python
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ncashish06/NeetCode-250/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ncashish06/NeetCode-250/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ncashish06/NeetCode-250/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ncashish06/NeetCode-250/tree/master/0027-remove-element) |
@@ -144,6 +145,7 @@ My NeetCode-250 problem submissions using Python
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ncashish06/NeetCode-250/tree/master/0001-two-sum) |
 | [0133-clone-graph](https://github.com/ncashish06/NeetCode-250/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/ncashish06/NeetCode-250/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/ncashish06/NeetCode-250/tree/master/0208-implement-trie-prefix-tree) |
