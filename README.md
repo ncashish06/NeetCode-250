@@ -35,6 +35,7 @@ My NeetCode-250 problem submissions using Python
 | [0739-daily-temperatures](https://github.com/ncashish06/NeetCode-250/tree/master/0739-daily-temperatures) |
 | [0778-swim-in-rising-water](https://github.com/ncashish06/NeetCode-250/tree/master/0778-swim-in-rising-water) |
 | [0912-sort-an-array](https://github.com/ncashish06/NeetCode-250/tree/master/0912-sort-an-array) |
+| [0994-rotting-oranges](https://github.com/ncashish06/NeetCode-250/tree/master/0994-rotting-oranges) |
 | [1094-car-pooling](https://github.com/ncashish06/NeetCode-250/tree/master/1094-car-pooling) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/ncashish06/NeetCode-250/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1929-concatenation-of-array](https://github.com/ncashish06/NeetCode-250/tree/master/1929-concatenation-of-array) |
@@ -132,6 +133,7 @@ My NeetCode-250 problem submissions using Python
 | [0463-island-perimeter](https://github.com/ncashish06/NeetCode-250/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/ncashish06/NeetCode-250/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/ncashish06/NeetCode-250/tree/master/0778-swim-in-rising-water) |
+| [0994-rotting-oranges](https://github.com/ncashish06/NeetCode-250/tree/master/0994-rotting-oranges) |
 ## Trie
 |  |
 | ------- |
@@ -265,6 +267,7 @@ My NeetCode-250 problem submissions using Python
 | [0463-island-perimeter](https://github.com/ncashish06/NeetCode-250/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/ncashish06/NeetCode-250/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/ncashish06/NeetCode-250/tree/master/0778-swim-in-rising-water) |
+| [0994-rotting-oranges](https://github.com/ncashish06/NeetCode-250/tree/master/0994-rotting-oranges) |
 ## Graph Theory
 |  |
 | ------- |
