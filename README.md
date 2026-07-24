@@ -32,6 +32,7 @@ My NeetCode-250 problem submissions using Python
 | [0463-island-perimeter](https://github.com/ncashish06/NeetCode-250/tree/master/0463-island-perimeter) |
 | [0621-task-scheduler](https://github.com/ncashish06/NeetCode-250/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/ncashish06/NeetCode-250/tree/master/0695-max-area-of-island) |
+| [0739-daily-temperatures](https://github.com/ncashish06/NeetCode-250/tree/master/0739-daily-temperatures) |
 | [0778-swim-in-rising-water](https://github.com/ncashish06/NeetCode-250/tree/master/0778-swim-in-rising-water) |
 | [0912-sort-an-array](https://github.com/ncashish06/NeetCode-250/tree/master/0912-sort-an-array) |
 | [1094-car-pooling](https://github.com/ncashish06/NeetCode-250/tree/master/1094-car-pooling) |
@@ -114,6 +115,7 @@ My NeetCode-250 problem submissions using Python
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ncashish06/NeetCode-250/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/ncashish06/NeetCode-250/tree/master/0739-daily-temperatures) |
 ## Backtracking
 |  |
 | ------- |
@@ -294,4 +296,8 @@ My NeetCode-250 problem submissions using Python
 |  |
 | ------- |
 | [1851-minimum-interval-to-include-each-query](https://github.com/ncashish06/NeetCode-250/tree/master/1851-minimum-interval-to-include-each-query) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/ncashish06/NeetCode-250/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
