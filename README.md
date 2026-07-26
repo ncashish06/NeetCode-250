@@ -32,6 +32,7 @@ My NeetCode-250 problem submissions using Python
 | [0435-non-overlapping-intervals](https://github.com/ncashish06/NeetCode-250/tree/master/0435-non-overlapping-intervals) |
 | [0463-island-perimeter](https://github.com/ncashish06/NeetCode-250/tree/master/0463-island-perimeter) |
 | [0621-task-scheduler](https://github.com/ncashish06/NeetCode-250/tree/master/0621-task-scheduler) |
+| [0682-baseball-game](https://github.com/ncashish06/NeetCode-250/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/ncashish06/NeetCode-250/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/ncashish06/NeetCode-250/tree/master/0739-daily-temperatures) |
 | [0778-swim-in-rising-water](https://github.com/ncashish06/NeetCode-250/tree/master/0778-swim-in-rising-water) |
@@ -45,6 +46,7 @@ My NeetCode-250 problem submissions using Python
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ncashish06/NeetCode-250/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/ncashish06/NeetCode-250/tree/master/0682-baseball-game) |
 | [1094-car-pooling](https://github.com/ncashish06/NeetCode-250/tree/master/1094-car-pooling) |
 | [1929-concatenation-of-array](https://github.com/ncashish06/NeetCode-250/tree/master/1929-concatenation-of-array) |
 | [2402-meeting-rooms-iii](https://github.com/ncashish06/NeetCode-250/tree/master/2402-meeting-rooms-iii) |
@@ -118,6 +120,7 @@ My NeetCode-250 problem submissions using Python
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ncashish06/NeetCode-250/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/ncashish06/NeetCode-250/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/ncashish06/NeetCode-250/tree/master/0739-daily-temperatures) |
 ## Backtracking
 |  |
