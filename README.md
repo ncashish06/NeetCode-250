@@ -123,6 +123,7 @@ My NeetCode-250 problem submissions using Python
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ncashish06/NeetCode-250/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/ncashish06/NeetCode-250/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/ncashish06/NeetCode-250/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ncashish06/NeetCode-250/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ncashish06/NeetCode-250/tree/master/0739-daily-temperatures) |
@@ -182,6 +183,7 @@ My NeetCode-250 problem submissions using Python
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/ncashish06/NeetCode-250/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/ncashish06/NeetCode-250/tree/master/0208-implement-trie-prefix-tree) |
 ## Math
 |  |
