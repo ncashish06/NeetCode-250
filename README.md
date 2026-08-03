@@ -41,6 +41,7 @@ My NeetCode-250 problem submissions using Python
 | [0912-sort-an-array](https://github.com/ncashish06/NeetCode-250/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/ncashish06/NeetCode-250/tree/master/0994-rotting-oranges) |
 | [1094-car-pooling](https://github.com/ncashish06/NeetCode-250/tree/master/1094-car-pooling) |
+| [1140-stone-game-ii](https://github.com/ncashish06/NeetCode-250/tree/master/1140-stone-game-ii) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/ncashish06/NeetCode-250/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1929-concatenation-of-array](https://github.com/ncashish06/NeetCode-250/tree/master/1929-concatenation-of-array) |
 | [2402-meeting-rooms-iii](https://github.com/ncashish06/NeetCode-250/tree/master/2402-meeting-rooms-iii) |
@@ -109,6 +110,7 @@ My NeetCode-250 problem submissions using Python
 | [0055-jump-game](https://github.com/ncashish06/NeetCode-250/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ncashish06/NeetCode-250/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/ncashish06/NeetCode-250/tree/master/0435-non-overlapping-intervals) |
+| [1140-stone-game-ii](https://github.com/ncashish06/NeetCode-250/tree/master/1140-stone-game-ii) |
 | [1871-jump-game-vii](https://github.com/ncashish06/NeetCode-250/tree/master/1871-jump-game-vii) |
 ## Sliding Window
 |  |
@@ -120,6 +122,7 @@ My NeetCode-250 problem submissions using Python
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ncashish06/NeetCode-250/tree/master/0238-product-of-array-except-self) |
 | [1094-car-pooling](https://github.com/ncashish06/NeetCode-250/tree/master/1094-car-pooling) |
+| [1140-stone-game-ii](https://github.com/ncashish06/NeetCode-250/tree/master/1140-stone-game-ii) |
 | [1871-jump-game-vii](https://github.com/ncashish06/NeetCode-250/tree/master/1871-jump-game-vii) |
 ## Stack
 |  |
@@ -195,6 +198,7 @@ My NeetCode-250 problem submissions using Python
 | [0048-rotate-image](https://github.com/ncashish06/NeetCode-250/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ncashish06/NeetCode-250/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/ncashish06/NeetCode-250/tree/master/0268-missing-number) |
+| [1140-stone-game-ii](https://github.com/ncashish06/NeetCode-250/tree/master/1140-stone-game-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -322,4 +326,8 @@ My NeetCode-250 problem submissions using Python
 | ------- |
 | [0739-daily-temperatures](https://github.com/ncashish06/NeetCode-250/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/ncashish06/NeetCode-250/tree/master/0853-car-fleet) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/ncashish06/NeetCode-250/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
