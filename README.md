@@ -12,6 +12,7 @@ My NeetCode-250 problem submissions using Python
 | [0027-remove-element](https://github.com/ncashish06/NeetCode-250/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ncashish06/NeetCode-250/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/ncashish06/NeetCode-250/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/ncashish06/NeetCode-250/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/ncashish06/NeetCode-250/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ncashish06/NeetCode-250/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ncashish06/NeetCode-250/tree/master/0056-merge-intervals) |
@@ -98,6 +99,7 @@ My NeetCode-250 problem submissions using Python
 | [0003-longest-substring-without-repeating-characters](https://github.com/ncashish06/NeetCode-250/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/ncashish06/NeetCode-250/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ncashish06/NeetCode-250/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/ncashish06/NeetCode-250/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/ncashish06/NeetCode-250/tree/master/0079-word-search) |
 | [0208-implement-trie-prefix-tree](https://github.com/ncashish06/NeetCode-250/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/ncashish06/NeetCode-250/tree/master/0212-word-search-ii) |
@@ -178,6 +180,7 @@ My NeetCode-250 problem submissions using Python
 | ------- |
 | [0001-two-sum](https://github.com/ncashish06/NeetCode-250/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ncashish06/NeetCode-250/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/ncashish06/NeetCode-250/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/ncashish06/NeetCode-250/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/ncashish06/NeetCode-250/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/ncashish06/NeetCode-250/tree/master/0208-implement-trie-prefix-tree) |
@@ -212,6 +215,7 @@ My NeetCode-250 problem submissions using Python
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ncashish06/NeetCode-250/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ncashish06/NeetCode-250/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ncashish06/NeetCode-250/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ncashish06/NeetCode-250/tree/master/0169-majority-element) |
