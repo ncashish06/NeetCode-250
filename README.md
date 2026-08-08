@@ -11,6 +11,7 @@ My NeetCode-250 problem submissions using Python
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ncashish06/NeetCode-250/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ncashish06/NeetCode-250/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ncashish06/NeetCode-250/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/ncashish06/NeetCode-250/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/ncashish06/NeetCode-250/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ncashish06/NeetCode-250/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/ncashish06/NeetCode-250/tree/master/0054-spiral-matrix) |
@@ -145,6 +146,7 @@ My NeetCode-250 problem submissions using Python
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ncashish06/NeetCode-250/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/ncashish06/NeetCode-250/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ncashish06/NeetCode-250/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/ncashish06/NeetCode-250/tree/master/0079-word-search) |
@@ -180,6 +182,7 @@ My NeetCode-250 problem submissions using Python
 | ------- |
 | [0001-two-sum](https://github.com/ncashish06/NeetCode-250/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ncashish06/NeetCode-250/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/ncashish06/NeetCode-250/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ncashish06/NeetCode-250/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/ncashish06/NeetCode-250/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/ncashish06/NeetCode-250/tree/master/0169-majority-element) |
