@@ -45,6 +45,7 @@ My NeetCode-250 problem submissions using Python
 | [0994-rotting-oranges](https://github.com/ncashish06/NeetCode-250/tree/master/0994-rotting-oranges) |
 | [1094-car-pooling](https://github.com/ncashish06/NeetCode-250/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/ncashish06/NeetCode-250/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/ncashish06/NeetCode-250/tree/master/1406-stone-game-iii) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/ncashish06/NeetCode-250/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1929-concatenation-of-array](https://github.com/ncashish06/NeetCode-250/tree/master/1929-concatenation-of-array) |
 | [2402-meeting-rooms-iii](https://github.com/ncashish06/NeetCode-250/tree/master/2402-meeting-rooms-iii) |
@@ -116,6 +117,7 @@ My NeetCode-250 problem submissions using Python
 | [0435-non-overlapping-intervals](https://github.com/ncashish06/NeetCode-250/tree/master/0435-non-overlapping-intervals) |
 | [0877-stone-game](https://github.com/ncashish06/NeetCode-250/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ncashish06/NeetCode-250/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/ncashish06/NeetCode-250/tree/master/1406-stone-game-iii) |
 | [1871-jump-game-vii](https://github.com/ncashish06/NeetCode-250/tree/master/1871-jump-game-vii) |
 ## Sliding Window
 |  |
@@ -208,6 +210,7 @@ My NeetCode-250 problem submissions using Python
 | [0268-missing-number](https://github.com/ncashish06/NeetCode-250/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/ncashish06/NeetCode-250/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ncashish06/NeetCode-250/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/ncashish06/NeetCode-250/tree/master/1406-stone-game-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -341,12 +344,15 @@ My NeetCode-250 problem submissions using Python
 | ------- |
 | [0877-stone-game](https://github.com/ncashish06/NeetCode-250/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ncashish06/NeetCode-250/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/ncashish06/NeetCode-250/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/ncashish06/NeetCode-250/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/ncashish06/NeetCode-250/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/ncashish06/NeetCode-250/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/ncashish06/NeetCode-250/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
