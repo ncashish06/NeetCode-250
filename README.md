@@ -348,11 +348,13 @@ My NeetCode-250 problem submissions using Python
 ## Minimax
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/ncashish06/NeetCode-250/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ncashish06/NeetCode-250/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ncashish06/NeetCode-250/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/ncashish06/NeetCode-250/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ncashish06/NeetCode-250/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ncashish06/NeetCode-250/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
