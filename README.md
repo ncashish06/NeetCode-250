@@ -7,6 +7,7 @@ My NeetCode-250 problem submissions using Python
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ncashish06/NeetCode-250/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/ncashish06/NeetCode-250/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ncashish06/NeetCode-250/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ncashish06/NeetCode-250/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ncashish06/NeetCode-250/tree/master/0027-remove-element) |
@@ -268,6 +269,7 @@ My NeetCode-250 problem submissions using Python
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ncashish06/NeetCode-250/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/ncashish06/NeetCode-250/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/ncashish06/NeetCode-250/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/ncashish06/NeetCode-250/tree/master/0621-task-scheduler) |
@@ -275,6 +277,7 @@ My NeetCode-250 problem submissions using Python
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ncashish06/NeetCode-250/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ncashish06/NeetCode-250/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ncashish06/NeetCode-250/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ncashish06/NeetCode-250/tree/master/0027-remove-element) |
