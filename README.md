@@ -30,6 +30,7 @@ My NeetCode-250 problem submissions using Python
 | [0217-contains-duplicate](https://github.com/ncashish06/NeetCode-250/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ncashish06/NeetCode-250/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ncashish06/NeetCode-250/tree/master/0268-missing-number) |
+| [0304-range-sum-query-2d-immutable](https://github.com/ncashish06/NeetCode-250/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/ncashish06/NeetCode-250/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ncashish06/NeetCode-250/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/ncashish06/NeetCode-250/tree/master/0435-non-overlapping-intervals) |
@@ -129,6 +130,7 @@ My NeetCode-250 problem submissions using Python
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ncashish06/NeetCode-250/tree/master/0238-product-of-array-except-self) |
+| [0304-range-sum-query-2d-immutable](https://github.com/ncashish06/NeetCode-250/tree/master/0304-range-sum-query-2d-immutable) |
 | [1094-car-pooling](https://github.com/ncashish06/NeetCode-250/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/ncashish06/NeetCode-250/tree/master/1140-stone-game-ii) |
 | [1871-jump-game-vii](https://github.com/ncashish06/NeetCode-250/tree/master/1871-jump-game-vii) |
@@ -155,6 +157,7 @@ My NeetCode-250 problem submissions using Python
 | [0079-word-search](https://github.com/ncashish06/NeetCode-250/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ncashish06/NeetCode-250/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/ncashish06/NeetCode-250/tree/master/0212-word-search-ii) |
+| [0304-range-sum-query-2d-immutable](https://github.com/ncashish06/NeetCode-250/tree/master/0304-range-sum-query-2d-immutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ncashish06/NeetCode-250/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/ncashish06/NeetCode-250/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/ncashish06/NeetCode-250/tree/master/0695-max-area-of-island) |
@@ -202,6 +205,7 @@ My NeetCode-250 problem submissions using Python
 | ------- |
 | [0155-min-stack](https://github.com/ncashish06/NeetCode-250/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/ncashish06/NeetCode-250/tree/master/0208-implement-trie-prefix-tree) |
+| [0304-range-sum-query-2d-immutable](https://github.com/ncashish06/NeetCode-250/tree/master/0304-range-sum-query-2d-immutable) |
 ## Math
 |  |
 | ------- |
