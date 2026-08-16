@@ -26,6 +26,7 @@ My NeetCode-250 problem submissions using Python
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ncashish06/NeetCode-250/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/ncashish06/NeetCode-250/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/ncashish06/NeetCode-250/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/ncashish06/NeetCode-250/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/ncashish06/NeetCode-250/tree/master/0212-word-search-ii) |
 | [0217-contains-duplicate](https://github.com/ncashish06/NeetCode-250/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ncashish06/NeetCode-250/tree/master/0238-product-of-array-except-self) |
@@ -65,6 +66,7 @@ My NeetCode-250 problem submissions using Python
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ncashish06/NeetCode-250/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ncashish06/NeetCode-250/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/ncashish06/NeetCode-250/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/ncashish06/NeetCode-250/tree/master/0268-missing-number) |
 | [0778-swim-in-rising-water](https://github.com/ncashish06/NeetCode-250/tree/master/0778-swim-in-rising-water) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/ncashish06/NeetCode-250/tree/master/1851-minimum-interval-to-include-each-query) |
@@ -125,10 +127,12 @@ My NeetCode-250 problem submissions using Python
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ncashish06/NeetCode-250/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/ncashish06/NeetCode-250/tree/master/0209-minimum-size-subarray-sum) |
 | [1871-jump-game-vii](https://github.com/ncashish06/NeetCode-250/tree/master/1871-jump-game-vii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ncashish06/NeetCode-250/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ncashish06/NeetCode-250/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ncashish06/NeetCode-250/tree/master/0304-range-sum-query-2d-immutable) |
 | [1094-car-pooling](https://github.com/ncashish06/NeetCode-250/tree/master/1094-car-pooling) |
