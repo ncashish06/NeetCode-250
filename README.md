@@ -76,6 +76,7 @@ My NeetCode-250 problem submissions using Python
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ncashish06/NeetCode-250/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ncashish06/NeetCode-250/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ncashish06/NeetCode-250/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ncashish06/NeetCode-250/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ncashish06/NeetCode-250/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
@@ -86,6 +87,7 @@ My NeetCode-250 problem submissions using Python
 | [0133-clone-graph](https://github.com/ncashish06/NeetCode-250/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/ncashish06/NeetCode-250/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ncashish06/NeetCode-250/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ncashish06/NeetCode-250/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ncashish06/NeetCode-250/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0310-minimum-height-trees](https://github.com/ncashish06/NeetCode-250/tree/master/0310-minimum-height-trees) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ncashish06/NeetCode-250/tree/master/0417-pacific-atlantic-water-flow) |
@@ -98,6 +100,7 @@ My NeetCode-250 problem submissions using Python
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ncashish06/NeetCode-250/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ncashish06/NeetCode-250/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ncashish06/NeetCode-250/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ncashish06/NeetCode-250/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ncashish06/NeetCode-250/tree/master/0543-diameter-of-binary-tree) |
 ## String
@@ -343,6 +346,7 @@ My NeetCode-250 problem submissions using Python
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ncashish06/NeetCode-250/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ncashish06/NeetCode-250/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Radix Sort
 |  |
