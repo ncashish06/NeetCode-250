@@ -24,6 +24,7 @@ My NeetCode-250 problem submissions using Python
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ncashish06/NeetCode-250/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ncashish06/NeetCode-250/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ncashish06/NeetCode-250/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ncashish06/NeetCode-250/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ncashish06/NeetCode-250/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/ncashish06/NeetCode-250/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/ncashish06/NeetCode-250/tree/master/0209-minimum-size-subarray-sum) |
@@ -67,6 +68,7 @@ My NeetCode-250 problem submissions using Python
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ncashish06/NeetCode-250/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ncashish06/NeetCode-250/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ncashish06/NeetCode-250/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ncashish06/NeetCode-250/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/ncashish06/NeetCode-250/tree/master/0268-missing-number) |
 | [0778-swim-in-rising-water](https://github.com/ncashish06/NeetCode-250/tree/master/0778-swim-in-rising-water) |
@@ -303,6 +305,7 @@ My NeetCode-250 problem submissions using Python
 | [0027-remove-element](https://github.com/ncashish06/NeetCode-250/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/ncashish06/NeetCode-250/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ncashish06/NeetCode-250/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ncashish06/NeetCode-250/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/ncashish06/NeetCode-250/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/ncashish06/NeetCode-250/tree/master/0680-valid-palindrome-ii) |
 ## Bit Manipulation
