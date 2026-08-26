@@ -46,6 +46,7 @@ My NeetCode-250 problem submissions using Python
 | [0739-daily-temperatures](https://github.com/ncashish06/NeetCode-250/tree/master/0739-daily-temperatures) |
 | [0778-swim-in-rising-water](https://github.com/ncashish06/NeetCode-250/tree/master/0778-swim-in-rising-water) |
 | [0853-car-fleet](https://github.com/ncashish06/NeetCode-250/tree/master/0853-car-fleet) |
+| [0875-koko-eating-bananas](https://github.com/ncashish06/NeetCode-250/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/ncashish06/NeetCode-250/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/ncashish06/NeetCode-250/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/ncashish06/NeetCode-250/tree/master/0994-rotting-oranges) |
@@ -73,6 +74,7 @@ My NeetCode-250 problem submissions using Python
 | [0209-minimum-size-subarray-sum](https://github.com/ncashish06/NeetCode-250/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/ncashish06/NeetCode-250/tree/master/0268-missing-number) |
 | [0778-swim-in-rising-water](https://github.com/ncashish06/NeetCode-250/tree/master/0778-swim-in-rising-water) |
+| [0875-koko-eating-bananas](https://github.com/ncashish06/NeetCode-250/tree/master/0875-koko-eating-bananas) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/ncashish06/NeetCode-250/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Tree
 |  |
