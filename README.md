@@ -69,6 +69,7 @@ My NeetCode-250 problem submissions using Python
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ncashish06/NeetCode-250/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/ncashish06/NeetCode-250/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ncashish06/NeetCode-250/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ncashish06/NeetCode-250/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ncashish06/NeetCode-250/tree/master/0209-minimum-size-subarray-sum) |
@@ -231,6 +232,7 @@ My NeetCode-250 problem submissions using Python
 | [0007-reverse-integer](https://github.com/ncashish06/NeetCode-250/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/ncashish06/NeetCode-250/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ncashish06/NeetCode-250/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/ncashish06/NeetCode-250/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ncashish06/NeetCode-250/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/ncashish06/NeetCode-250/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ncashish06/NeetCode-250/tree/master/1140-stone-game-ii) |
@@ -403,4 +405,8 @@ My NeetCode-250 problem submissions using Python
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ncashish06/NeetCode-250/tree/master/0239-sliding-window-maximum) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ncashish06/NeetCode-250/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
