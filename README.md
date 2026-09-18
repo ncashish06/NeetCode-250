@@ -23,6 +23,7 @@ My NeetCode-250 problem submissions using Python
 | [0079-word-search](https://github.com/ncashish06/NeetCode-250/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/ncashish06/NeetCode-250/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ncashish06/NeetCode-250/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/ncashish06/NeetCode-250/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ncashish06/NeetCode-250/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ncashish06/NeetCode-250/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ncashish06/NeetCode-250/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -210,6 +211,7 @@ My NeetCode-250 problem submissions using Python
 | [0036-valid-sudoku](https://github.com/ncashish06/NeetCode-250/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ncashish06/NeetCode-250/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ncashish06/NeetCode-250/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/ncashish06/NeetCode-250/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/ncashish06/NeetCode-250/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/ncashish06/NeetCode-250/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/ncashish06/NeetCode-250/tree/master/0208-implement-trie-prefix-tree) |
@@ -350,6 +352,7 @@ My NeetCode-250 problem submissions using Python
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ncashish06/NeetCode-250/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/ncashish06/NeetCode-250/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ncashish06/NeetCode-250/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/ncashish06/NeetCode-250/tree/master/0778-swim-in-rising-water) |
